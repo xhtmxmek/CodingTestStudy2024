@@ -130,10 +130,11 @@
   <ItemGroup>
     <ClCompile Include="BOJ2309.cpp" />
     <ClCompile Include="CodingTestStudy.cpp" />
-    <ClCompile Include="sampleCode.cpp" />
+    <ClCompile Include="Permutation_Combine\permutation_Combine_base.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="boj2309.h" />
+    <ClInclude Include="Permutation_Combine\permutation_combine_base.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

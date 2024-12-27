@@ -21,12 +21,15 @@
     <ClCompile Include="BOJ2309.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sampleCode.cpp">
+    <ClCompile Include="Permutation_Combine\permutation_Combine_base.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="boj2309.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Permutation_Combine\permutation_combine_base.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

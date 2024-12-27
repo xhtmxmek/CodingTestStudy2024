@@ -1,7 +1,3 @@
-//boj2309 일곱난쟁이
-/*
-* 조합문제로 해결하기.
-*/
 #include <algorithm>
 #include <vector>
 #include <iostream>
